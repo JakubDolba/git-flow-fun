@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-
+        "ramsey/uuid": "^3.9"
     },
     "require-dev": {
         "roave/security-advisories": "dev-master"
