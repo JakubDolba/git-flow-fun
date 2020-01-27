@@ -1,0 +1,18 @@
+{
+    "name": "jdolba/git-flow-fun",
+    "description": "Funny project to have even more fun with GIT",
+    "type": "project",
+    "license": "No Waranty and No Licence",
+    "authors": [
+        {
+            "name": "Jakub Dolba",
+            "email": "jakub@dolba.cz"
+        }
+    ],
+    "require": {
+
+    },
+    "require-dev": {
+        "roave/security-advisories": "dev-master"
+    }
+}
